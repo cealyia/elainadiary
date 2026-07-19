@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "LLL",
+    "NNN",
+    "LLL"
+  ],
+  "key": {
+    "L": {
+      "item": "minecraft:leather"
+    },
+    "N": {
+      "item": "elainadiary:elainanotepaper"
+    }
+  },
+  "result": {
+    "item": "elainadiary:elaina_diary",
+    "count": 1
+  }
+}
